@@ -1,3 +1,10 @@
+> --  
+>
+> ℹ️ 
+> Dit document is overgezet van [geobag-pr-berichtidentificaties](https://github.com/Geonovum/GeoBAG/tree/master/documentatie/praktijkrichtlijnen/identificaties%20in%20berichten).
+> 
+> --
+
 ## ReSpec template instructies
 
 ReSpec is een tool om HTML- en PDF-documenten te genereren op basis van markdowncontent. Deze template helpt je bij het opstellen en publiceren van documenten volgens de Geonovum-standaard.
