@@ -96,9 +96,9 @@ let respecConfig = {
   // - Voeg dan pas hieronder toe.
   // - Zie handleiding: https://geonovum.github.io/handleiding-tooling/ReSpec/ReSpec-onderdelen/#bibliografie
   //
-  // localBiblio: 
-  // {
-  //   MIM12: {
+  localBiblio: 
+  {
+    // MIM12: {
   //     id: "MIM12",
   //     title: "MIM - Metamodel Informatie Modellering (Versie 1.2)",
   //     href: "https://docs.geostandaarden.nl/mim/def-st-mim-20240613/",
@@ -106,5 +106,5 @@ let respecConfig = {
   //     publisher: "Geonovum",
   //     date: "2024-06-13"
   //   }
-  // }
+  }
 };
